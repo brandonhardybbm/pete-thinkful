@@ -40,6 +40,8 @@ h3 {
 nav {
   text-align: center;
   padding: 20px;
+  margin: 20px;
+  word-spacing: 20px;
 }
 
 article {
